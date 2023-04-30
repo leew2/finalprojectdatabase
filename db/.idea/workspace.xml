@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="252f4552-5c65-4f8c-8048-2c1285225e37" name="Changes" comment="" />
+    <list default="true" id="252f4552-5c65-4f8c-8048-2c1285225e37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WiredTiger.turtle" beforeDir="false" afterPath="$PROJECT_DIR$/WiredTiger.turtle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WiredTiger.wt" beforeDir="false" afterPath="$PROJECT_DIR$/WiredTiger.wt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagnostic.data/metrics.2023-04-24T00-49-08Z-00000" beforeDir="false" afterPath="$PROJECT_DIR$/diagnostic.data/metrics.2023-04-24T00-49-08Z-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagnostic.data/metrics.interim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/journal/WiredTigerLog.0000000005" beforeDir="false" afterPath="$PROJECT_DIR$/journal/WiredTigerLog.0000000005" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Oqru25cTpQjfzzH9nfBicYRWvq" />
   <component name="ProjectViewState">
@@ -14,6 +23,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/data",
@@ -30,6 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682299171230</updated>
       <workItem from="1682299172316" duration="14000" />
+      <workItem from="1682898115491" duration="24000" />
     </task>
     <servers />
   </component>
